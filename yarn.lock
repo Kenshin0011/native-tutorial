@@ -1358,6 +1358,11 @@
   resolved "https://registry.yarnpkg.com/@capacitor/haptics/-/haptics-6.0.0.tgz#4ff29ca16173c28d50ab6a227bc4cb8091df6e1d"
   integrity sha512-z2TmB+pTbd98Il2I1xpZGClCFwORxxP2m9f1a0rh70c2ubj2atVyZctgxrx1fuoExZTNGSxHaylWfrmjmtelVg==
 
+"@capacitor/ios@6.1.1":
+  version "6.1.1"
+  resolved "https://registry.yarnpkg.com/@capacitor/ios/-/ios-6.1.1.tgz#4f82544957ecc2b945ec456a22f4cca3b2a06f30"
+  integrity sha512-he6+Fhj6x1dSnOzM98xaPvioOU8MNO+qpodCJwnHE3mIRonTpFutXJK8DP8fnNhjDPk2km9VafLSfOeiZXNv3Q==
+
 "@capacitor/keyboard@6.0.1":
   version "6.0.1"
   resolved "https://registry.yarnpkg.com/@capacitor/keyboard/-/keyboard-6.0.1.tgz#76add27a20239eefc3353b970fd506036d948d18"
